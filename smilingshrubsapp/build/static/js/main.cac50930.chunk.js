@@ -1,0 +1,2 @@
+(this.webpackJsonpsmilingshrubsapp=this.webpackJsonpsmilingshrubsapp||[]).push([[0],{4:function(e,s,n){"use strict";n.r(s);n(1);var r=n(3),t=n.n(r),i=n(0);t.a.render(Object(i.jsx)(i.Fragment,{children:Object(i.jsx)("h1",{children:"Hello world "})}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.cac50930.chunk.js.map

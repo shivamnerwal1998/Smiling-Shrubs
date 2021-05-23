@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Smiling-Shrubs/smilingshrubsapp/static/js/main.cac50930.chunk.js",
+    "main.js.map": "/Smiling-Shrubs/smilingshrubsapp/static/js/main.cac50930.chunk.js.map",
+    "runtime-main.js": "/Smiling-Shrubs/smilingshrubsapp/static/js/runtime-main.870f014a.js",
+    "runtime-main.js.map": "/Smiling-Shrubs/smilingshrubsapp/static/js/runtime-main.870f014a.js.map",
+    "static/js/2.0f58bd2a.chunk.js": "/Smiling-Shrubs/smilingshrubsapp/static/js/2.0f58bd2a.chunk.js",
+    "static/js/2.0f58bd2a.chunk.js.map": "/Smiling-Shrubs/smilingshrubsapp/static/js/2.0f58bd2a.chunk.js.map",
+    "index.html": "/Smiling-Shrubs/smilingshrubsapp/index.html",
+    "static/js/2.0f58bd2a.chunk.js.LICENSE.txt": "/Smiling-Shrubs/smilingshrubsapp/static/js/2.0f58bd2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.870f014a.js",
+    "static/js/2.0f58bd2a.chunk.js",
+    "static/js/main.cac50930.chunk.js"
+  ]
+}
