@@ -2,7 +2,7 @@
   "name": "smilingshrubsapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shivamnerwal1998.github.io/Smiling-Shrubs/smilingshrubsapp",
+  "homepage": "https://shivamnerwal1998.github.io/Smiling-Shrubs",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
